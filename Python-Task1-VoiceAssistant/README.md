@@ -168,14 +168,13 @@ Assistant:  "Goodbye! Have a wonderful evening. Take care!"
 
 > Add screenshots to the `screenshots/` folder and reference them here.
 
-<!-- Example (uncomment after adding images):
 ![Startup Banner](screenshots/01_startup_banner.png)
 ![Greeting](screenshots/02_greeting_response.png)
 ![Time](screenshots/03_time_response.png)
 ![Date](screenshots/04_date_response.png)
 ![Search](screenshots/05_google_search.png)
 ![Exit](screenshots/06_exit_response.png)
--->
+![Error Handling](screenshots/07_error_handling.png)
 
 ---
 
